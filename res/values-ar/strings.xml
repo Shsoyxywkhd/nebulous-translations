@@ -188,7 +188,7 @@
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب  ١٠٠٠ نقطة"</string>
     <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
     <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
     <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
@@ -246,7 +246,7 @@
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"تم العثور على نسخة احتياطية من احصائيات لاعب واحد مع نقاط خبرة اعلى . هل ترغب في استعادة النسخة الاحتياطية؟"</string>
 
     <string name="Special_Effects">"المؤثرات الخاصة"</string>
-    <string name="Blob_Mushiness">"طراء الدائرة"</string>
+    <string name="Blob_Mushiness">"اطار الدائرة"</string>
 
     <string name="Specify_private_game_name">"تحديد اسم اللعبة الخاصة"</string>
     <string name="In_Game_Chat">" الدردشة في اللعبة"</string>
@@ -307,11 +307,11 @@
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق بالتوقيت."</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"الفوز بـ 3 نقاط في لعبة إمساك العلم."</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"تسجيل 3 نقاط في لعبة إمساك العلم واحدة."</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">تسجيل 3 نقاط في لعبة إمساك العلم ."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"الفوز بـ2500 درجة او اكثر في لعبة النجاة."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"البقاء على قيد الحياة في لعبة النجاة دون الفوز بها."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"الفوز بـ 8 أهداف او اكثر في لعبة كرة القدم."</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
     <string name="Total_Domination">"إجمالي السيطرة"</string>
     <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من اي نوع."</string>
     <string name="Translations">"المـتـرجمـون"</string>
@@ -419,7 +419,7 @@
 
     <string name="Remove_Ads">"إزالة الاعلانات"</string>
     <string name="Reward">" مكافاة"</string>
-    <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
+    <string name="Please_ait___">"الرجاء الإنتظار…"</string>
     <string name="Purchasing">"المشتريات"</string>
 
     <string name="Purchase_Successful_">" تم الشراء!"</string>
